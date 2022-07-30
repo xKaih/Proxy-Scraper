@@ -1,6 +1,6 @@
 # These are supported funding model platforms
 
-github: ^[xKaih]
+github: [xKaih]
 patreon: user?u=59043129
 open_collective: # Replace with a single Open Collective username
 ko_fi: # Replace with a single Ko-fi username
